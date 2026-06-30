@@ -101,6 +101,13 @@ section h3 {
   flex-direction: column;
   gap: 15px;
 }
+.announcement-banner {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
 
 .sidebar-filters {
   padding: 15px;
